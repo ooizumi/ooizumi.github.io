@@ -3,13 +3,9 @@
         "apps": [],
         "details": [
             {
-                "appID": "teamID.bundleId”,
-                "paths": ["/deaplink","/wwdc/news/","*"]
-            },
-            {
-                "appID": "ABCD1234.com.apple.wwdc",
-                "paths": [ "*" ]
-            }
+                "appID": "75MY4VBR5K.com.wonderplay.mhwa”,
+                "paths": ["/unilink"]
+            }, 
         ]
     } 
 }
