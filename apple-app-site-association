@@ -3,7 +3,7 @@
 		"apps": [],
 		"details": [{
 			"appID": "75MY4VBR5K.com.wonderplay.mhwa",
-			"paths": ["/unilink"]
+			"paths": ["*"]
 		}]
 	}
 }
