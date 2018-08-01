@@ -1,11 +1,9 @@
 {
-"applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "75MY4VBR5K.com.wonderplay.mhwa”,
-                "paths": ["/unilink"]
-            }, 
-        ]
-    } 
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "75MY4VBR5K.com.wonderplay.mhwa",
+			"paths": ["/unilink"]
+		}]
+	}
 }
